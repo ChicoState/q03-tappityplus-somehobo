@@ -1,0 +1,15 @@
+gtest_main.a
+gtest_main.gcda
+gtest_main.gcno
+gtest_main.o
+gtest-all.gcda
+gtest-all.gcno
+gtest-all.o
+tappity.cpp.gcov
+tappity.gcda
+tappity.gcno
+tappity.o
+tappityTest
+tappityTest.gcda
+tappityTest.gcno
+tappityTest.o
