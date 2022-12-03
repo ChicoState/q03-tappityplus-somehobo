@@ -1,14 +1,15 @@
 #ifndef _TAPPITY_H_
 #define _TAPPITY_H_
 #include <string>
-
+#include <math.h>
 /**
  * Class for tappity
  **/
 class tappity
 {
     private:
-
+        std::string reference_phrase;
+        std::string user_input_phrase = "";
     public:
         //Constructor sets the reference phrase
         tappity(std::string reference);
